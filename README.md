@@ -19,7 +19,7 @@ This project shows the standard pattern for embedding a camera feed into SwiftUI
 
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/hB8MTEJj3CA)
 
-> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@noahdoescoding).
 
 ---
 
